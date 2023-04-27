@@ -7,4 +7,4 @@ An experimental implementation of the AES-COPA authenticated encryption scheme (
 Run ```make``` in the project root.
 
 ## Test run
-Run ```./aesdcopa_driver``
+Run ```./aesdcopa_driver```
